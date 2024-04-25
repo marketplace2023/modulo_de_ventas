@@ -56,3 +56,21 @@ HU4.2 - Análisis de Ventas por Productos: Como analista de ventas, quiero anali
 ## Tareas:
 Implementar la vista de informe con opciones de filtrado avanzado.
 Estas historias de usuario están diseñadas para asegurar que las vistas y formularios sean accesibles, intuitivos y seguros, facilitando la gestión diaria de las operaciones comerciales en el ERP y mejorando la experiencia del usuario.
+
+## Dashboard 1: Gestión de Órdenes de Venta
+Objetivo: Facilitar la visualización, creación y gestión de las órdenes de venta.
+Vista de Lista de Órdenes de Venta: Muestra todas las órdenes con información clave como número de orden, cliente, fecha de pedido, y estado actual.
+Formulario de Detalles de Órdenes de Venta: Permite la creación o edición de órdenes, incluyendo la selección de productos, configuración de términos de pago y condiciones de entrega.
+Comunicación Directa con Cliente: Integra funcionalidades para adjuntar documentos relevantes y comunicarse directamente con el cliente desde la orden.
+## Dashboard 2: Configuración de Plantillas y Opciones de Órdenes de Venta
+Objetivo: Establecer y gestionar plantillas y opciones que optimicen la creación de nuevas órdenes.
+Vista de Lista de Plantillas de Órdenes de Venta: Lista todas las plantillas disponibles, permitiendo crear o modificar plantillas con secciones predefinidas.
+Gestión de Opciones de Plantillas: Permite definir y editar opciones adicionales como garantías extendidas o servicios adicionales que pueden ser añadidos a las órdenes.
+## Dashboard 3: Ajustes de Descuentos e Impuestos
+Objetivo: Configurar y gestionar descuentos e impuestos aplicables a las órdenes de venta para asegurar la correcta facturación y cumplimiento fiscal.
+Configuración de Descuentos e Impuestos: Vista para gestionar las reglas de descuento y la configuración de impuestos para las líneas de productos en las órdenes.
+## Dashboard 4: Reportes y Análisis de Ventas
+Objetivo: Proporcionar análisis detallados y reportes sobre el desempeño de ventas.
+Historial de Modificaciones en Órdenes de Venta: Registra y muestra todos los cambios realizados en las órdenes, con funcionalidades de filtrado avanzado por orden, fecha o usuario.
+Análisis de Ventas por Productos: Informe detallado que muestra las ventas por producto, incluyendo cantidades vendidas, precios unitarios, y ganancias totales, con opciones de segmentación y filtrado por fechas, categorías de producto o clientes específicos.
+Cada uno de estos dashboards estará equipado con herramientas de búsqueda avanzada, filtros y opciones de ordenación para facilitar la administración y supervisión de las ventas. Además, se prestará especial atención a la seguridad y privacidad de los datos, asegurando que todos los formularios y configuraciones cumplan con las normativas pertinentes. La implementación de estos dashboards se apoyará en las tareas y objetivos definidos en las épicas y las historias de usuario, garantizando una integración completa con los flujos de trabajo de Odoo y mejorando significativamente la gestión de ventas dentro del ERP.
